@@ -8,6 +8,7 @@ box-sizing: border-box;
     height: 320px;
     margin: 10px;
     overflow: hidden;
+    box-shadow: 5px 5px 5px 2px #c7c7c7;
 }
 .card img {
     background-color: blue;
@@ -16,6 +17,7 @@ box-sizing: border-box;
     height: 200px;
     margin-bottom: 10px;
     background-size: cover; 
+    border-radius: 8px;
 }
 .content {
     padding: 16px;

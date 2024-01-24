@@ -9,6 +9,7 @@ main {
  white,
  #d7d8d9
     );
+        box-shadow: 8px 8px 20px;
 }
 header {
     display: flex;
